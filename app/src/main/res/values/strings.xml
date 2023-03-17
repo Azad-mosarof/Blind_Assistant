@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Multi Tasking App</string>
+    <string name="processing">Processing&#8230;</string>
+    <string name="rupee">₹</string>
+    <string name="share_intent_text">- Checkout this "Blind Assistant" app. https://play.google.com/store/apps/details?id=com.akash2099.blindassistant Download and try today!.</string>
+    <string name="share_intent_subject">Helps people to recognize and detect money in a few milliseconds.</string>
+    <string name="no_app_to_share">Nothing Available to Handle File</string>
+    <string name="share_via">Share Via</string>
+    <string name="text_will_appere_here">Text will appere here</string>
+    <string name="click_here_to_capture_voice">Tap on the Mic</string>
+
+</resources>
